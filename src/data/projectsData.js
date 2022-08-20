@@ -13,7 +13,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Employee Management System',
         projectDesc: 'The project aims to build an employee management system that helps managers and admin manage employees schedule and monitor clock-in/out activities',
-        tags: ['React', 'PostgresSQL', 'Node', 'CSS', 'Javascript'],
+        tags: ['PostgresSQL', 'Node', 'CSS', 'Javascript'],
         code: 'https://github.com/saorji/foundation_capstone_project.git',
         demo: 'https://youtu.be/RYW4Nm9IF4w',
         image: one
